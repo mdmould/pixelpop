@@ -3,10 +3,11 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "template-python"
+name = "pixelpop"
 version = "0.0.1"
 authors = [
-  { name="Matthew Mould", email="mattdmould@gmail.com" },
+    { name="Jack Heinzel", email="heinzelj@mit.edu" },
+    { name="Matthew Mould", email="mattdmould@gmail.com" },
 ]
 description = "Template for python packages"
 readme = "README.md"
@@ -19,5 +20,5 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/mdmould/template-python"
+Homepage = "https://github.com/mdmould/pixelpop"
 
